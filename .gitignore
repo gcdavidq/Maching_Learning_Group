@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# Datos y artefactos de entrenamiento (el modelo final .onnx sí se versiona)
+data/
+*.h5
+*.keras
+artefactos*
+
+# Entorno
+.env
+.vscode/
+.idea/
+.DS_Store

@@ -1,0 +1,35 @@
+{
+  "fuente": "APTOS 2019 (conjunto de validación)",
+  "ejemplos": [
+    {
+      "archivo": "233d948e2544.jpg",
+      "etiqueta": 0,
+      "grado": 0
+    },
+    {
+      "archivo": "e3cd96cb094c.jpg",
+      "etiqueta": 0,
+      "grado": 0
+    },
+    {
+      "archivo": "51131b48f9d4.jpg",
+      "etiqueta": 1,
+      "grado": 1
+    },
+    {
+      "archivo": "9f436886e056.jpg",
+      "etiqueta": 1,
+      "grado": 2
+    },
+    {
+      "archivo": "24b87f744598.jpg",
+      "etiqueta": 1,
+      "grado": 3
+    },
+    {
+      "archivo": "61bbc11fe503.jpg",
+      "etiqueta": 1,
+      "grado": 4
+    }
+  ]
+}
